@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React + D3.js
+
+This project combines React.js with D3.js to create a bar chart component. Made with React.js, D3.js, and [Ant Design](https://ant.design/docs/react/introduce).
+
+Topics explored: `props`, `state`, class components, component lifecycle
+
 ## Available Scripts
 
 In the project directory, you can run:
